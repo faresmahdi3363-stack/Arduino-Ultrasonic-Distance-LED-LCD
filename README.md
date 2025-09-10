@@ -27,8 +27,10 @@ This Arduino project measures distance using an **ultrasonic sensor**, displays 
 
 ## Usage
 1. Connect the sensor and LEDs as shown in the schematic.
-2. Upload the sketch using **Arduino IDE**.
-3. Observe distance and light info on the LCD and LED behavior.
+![photo_2025-09-11_00-17-19](https://github.com/user-attachments/assets/687082fe-a5a0-46bc-bf03-1d5cfc36f275)
+![photo_2025-09-11_00-17-25](https://github.com/user-attachments/assets/5809c8cf-4f23-44f0-b411-7f33579355bd)
+3. Upload the sketch using **Arduino IDE**.
+4. Observe distance and light info on the LCD and LED behavior.
 
 ## Photo
 
